@@ -39,7 +39,7 @@ source_system:
         - The Silver layer stores cleaned, standardised, and validated data from the Bronze layer.
 
   [iii] Gold layer
-        -
+        - bussiness standerd data in kimble architecture.
 
 # Data Model Design
 
@@ -50,7 +50,7 @@ source_system:
     Companies House API / Files
           |
           v
-yFinance API / Python Library
+yFinance API 
           |
           v
 Raw Data Ingestion
